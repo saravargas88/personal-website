@@ -1,0 +1,11 @@
+
+#PERSONAL WEBSITE
+
+LIBRARIES: 
+- React 
+- React Bootstrap
+
+LANGUAGES: 
+- CSS
+- JAVASCRIPT
+- HTML
