@@ -13,9 +13,15 @@ export default function Projects() {
       link: "https://qi-personal-website.vercel.app/"
     },
     {
+      title: " Quiz App : Express, Node.js",
+      description: "A full-stack quiz application built with Express and Node.js",
+      imgSrc: "/thumbnails/quiz.png",
+      link: "https://quiz-webapp-express.onrender.com/quiz"
+    },
+    {
       title: " Thesis: The Effects of Paid Parental Leaves on the Labor Force Participation of Mothers ",
       description: "Analysis using R on the impact of Paid Parental Leave (PPL) policies on mothers' labor force participation through demographics.",
-      imgSrc: "/thumbnails/thesispic.png",
+      imgSrc: "/thumbnails/thesis.png",
       link: "https://github.com/saravargas88/undergraduate-thesis/blob/main/The%20Effects%20of%20Paid%20Parental%20Leaves%20on%20the%20Labor%20Force%20Participation%20of%20Mothers%20%20(2).pdf"
     },
    
