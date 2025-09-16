@@ -4,8 +4,6 @@ Component defintino script for FOOTER:
 - will be at the bottom of the page
 
 */
-
-
 import { Container, Row, Col } from "react-bootstrap";
 import { AiFillGithub } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
@@ -39,13 +37,15 @@ export default function Footer() {
               <AiFillGithub size={20} />
             </a>
             <a
-              href="www.linkedin.com/in/sara-vargas-696b62233"
+              href="https://www.linkedin.com/in/sara-vargas-696b62233"
               className="text-muted"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FaLinkedinIn size={20} />
             </a>
+
+            
           </Col>
         </Row>
       </Container>
