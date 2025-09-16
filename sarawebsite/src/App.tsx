@@ -25,8 +25,7 @@ function App() {
             <Background />
 
         </div>
-        
-            
+          
         <div className="content-container">
             <Navbar />
             <Routes>
@@ -36,7 +35,6 @@ function App() {
             <Route path="/contact" element={<Contact />} />
             </Routes>
       </div>
-
       <Footer />
     </BrowserRouter>
     )

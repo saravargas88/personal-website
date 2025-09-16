@@ -12,6 +12,7 @@ export default function Background() {
   return (
     <div
       onMouseMove={handleMouseMove}
+      
       style={{
         width: "100%",
         height: "100%",
