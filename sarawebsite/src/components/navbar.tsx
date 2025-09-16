@@ -10,14 +10,15 @@ export default function NavBar() {
 
   return (
     <Navbar
-      expanded={expanded}
-      onToggle={(isExpanded) => setExpanded(isExpanded)}
-      expand="md"
-      bg="dark"
-      variant="dark"
-      fixed="top"
-      className="shadow-sm"
-    >
+  expanded={expanded}
+  onToggle={(isExpanded) => setExpanded(isExpanded)}
+  expand="md"
+  bg="light"
+  variant="light"
+  fixed="top"
+  className="shadow-sm"
+>
+
       <Container>
         {/* Brand / Logo */}
         <Navbar.Brand as={Link} to="/" className="d-flex align-items-center">
