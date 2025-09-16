@@ -5,7 +5,7 @@ import resumePDF from "/resume.pdf"
 
 export default function Resume() {
   return (
-    <Container fluid className="my-5">
+    <Container fluid className="my-5 resume-page">
       <Row className="align-items-center justify-content-center">
         <Col xs={12} md={8} className="text-center">
           <h1>Resume</h1>
