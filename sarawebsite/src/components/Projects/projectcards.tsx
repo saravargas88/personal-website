@@ -38,7 +38,7 @@ export default function ProjectCard({
           src={imgSrc}
           alt={title}
           className="project-img"
-          style={{ maxWidth: "250px", border: "2px solid #000000ff" }}
+          style={{ maxWidth: "250px", border: "2px solid #000000" }}
         />
       </div>
 

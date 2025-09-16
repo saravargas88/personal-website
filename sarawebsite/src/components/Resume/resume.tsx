@@ -1,7 +1,7 @@
 
 
 import { Container, Row, Col } from "react-bootstrap";
-import resumePDF from "/resume.pdf"
+import resumePDF from "/sara-vargas-resume.pdf"
 
 export default function Resume() {
   return (
