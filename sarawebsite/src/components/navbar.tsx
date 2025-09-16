@@ -10,14 +10,13 @@ export default function NavBar() {
 
   return (
     <Navbar
-  expanded={expanded}
-  onToggle={(isExpanded) => setExpanded(isExpanded)}
-  expand="md"
-  bg="light"
-  variant="light"
-  fixed="top"
-  className="shadow-sm"
->
+    expanded={expanded}
+    onToggle={(isExpanded) => setExpanded(isExpanded)}
+    expand="md"
+    fixed="top"
+    className="shadow-sm navbar-custom"
+  >
+
 
       <Container>
         {/* Brand / Logo */}

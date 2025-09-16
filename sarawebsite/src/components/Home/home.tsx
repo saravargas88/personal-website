@@ -4,6 +4,7 @@ import { Typewriter } from "react-simple-typewriter";
 
 export default function Home() {
   return (
+    <div>
     <div
       style={{
         height: "100vh",
@@ -15,7 +16,7 @@ export default function Home() {
       }}
     >
       <Typewriter
-        words={["Welcome to Sara Vargas Portfolio"]}
+        words={["Welcome to Sara Vargas' Portfolio"]}
         cursor
         cursorStyle="_"
         typeSpeed={80}
@@ -23,5 +24,18 @@ export default function Home() {
         delaySpeed={1000}
       />
     </div>
+
+
+      <h1> 
+        About Me
+      </h1>
+      <p>
+        I'm Sara Vargas, a passionate software developer with a love for creating innovative solutions. With experience in full-stack development, I enjoy working on projects that challenge me to learn and grow. Welcome to my portfolio!
+      </p>
+
+
+    </div>
+
+
   );
 }
