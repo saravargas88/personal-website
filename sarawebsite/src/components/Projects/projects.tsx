@@ -18,6 +18,12 @@ export default function Projects() {
       imgSrc: "/thumbnails/quiz.png",
       link: "https://quiz-webapp-express.onrender.com/quiz"
     },
+     {
+      title: "Character Deformation from Point Cloud Data",
+      description: "A 3D character deformation system using point cloud data, implemented in Python with LibIGL for rendering and Eigen for matrix computations.",
+      imgSrc: "/thumbnails/geom.png",
+      link: "https://github.com/saravargas88/geometric-modeling-25/tree/main/Shape%20Deformation"
+    },
     {
       title: " Thesis: The Effects of Paid Parental Leaves on the Labor Force Participation of Mothers ",
       description: "Analysis using R on the impact of Paid Parental Leave (PPL) policies on mothers' labor force participation through demographics.",
