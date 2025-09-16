@@ -31,7 +31,7 @@ export default function Footer() {
           {/* Right side - Social icons */}
           <Col md={4} className="text-end">
             <a
-              href="https://github.com/QiLiu6"
+              href="https://github.com/saravargas88"
               className="text-muted me-3"
               target="_blank"
               rel="noopener noreferrer"
@@ -39,7 +39,7 @@ export default function Footer() {
               <AiFillGithub size={20} />
             </a>
             <a
-              href="https://linkedin.com/"
+              href="www.linkedin.com/in/sara-vargas-696b62233"
               className="text-muted"
               target="_blank"
               rel="noopener noreferrer"

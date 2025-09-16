@@ -14,7 +14,7 @@ export default function Contact() {
               <Card.Title>Email</Card.Title>
               <Card.Text>
                 You can reach me at{" "}
-                <a href="mailto:ql2221@nyu.edu">ql2221@nyu.edu</a>
+                <a href="mailto:ql2221@nyu.edu">sv2279@nyu.edu</a>
               </Card.Text>
             </Card.Body>
           </Card>
@@ -28,7 +28,7 @@ export default function Contact() {
               <Card.Title>GitHub</Card.Title>
               <Card.Text>
                 You can find my projects on{" "}
-                <a href="https://github.com/QiLiu6" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/saravargas88" target="_blank" rel="noopener noreferrer">
                   GitHub
                 </a>
               </Card.Text>

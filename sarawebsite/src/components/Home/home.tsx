@@ -3,10 +3,10 @@ import { motion } from "framer-motion";
 export default function Home() {
   return (
     <div>
-      {/* Hero Section */}
+     
       <section
         style={{
-          height: "90vh",  // instead of 100vh
+          height: "90vh",  
           display: "flex",
           justifyContent: "center",
           alignItems: "center",
@@ -75,7 +75,7 @@ export default function Home() {
       <br />
       <br />
       Most recently, I’ve worked as a Software Developer at Octavate, where I
-      built a CNN in PyTorch to evaluate music tracks, developed a RESTful
+      worked on a CNN in PyTorch to evaluate music tracks, developed a RESTful
       API-powered web scraper, and designed data visualization tools to drive
       product insights.
       <br />
@@ -97,7 +97,7 @@ export default function Home() {
 
   {/* Headshot Side */}
   <motion.img
-    src="public/headshot.jpg" // replace with your image path
+    src="public/headshot.jpg" 
     alt="Sara Vargas Headshot"
     initial={{ opacity: 0, scale: 0.9 }}
     whileInView={{ opacity: 1, scale: 1 }}

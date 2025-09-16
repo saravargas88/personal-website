@@ -30,6 +30,14 @@ export default function Projects() {
       link: "https://qi-personal-website.vercel.app/",
       skills: ["React", "JavaScript", "CSS", "HTML"]
     },
+
+    {
+      title: "Improving MNIST Classification with Gaussian Noise Regularization",
+      description: "A study on the effects of adding Gaussian noise to neural network weights as a regularization technique to improve model generalization.",
+      imgSrc: "/thumbnails/regularization-mnist.png",  // your own image
+      link: "https://github.com/saravargas88/deep-learning-25/blob/main/final-proj1-CNN-RNN.ipynb", 
+      skills: ["Machine_Learning", "Python"]
+      },
     {
       title: " Quiz App : Express, Node.js",
       description: "A full-stack quiz application built with Express and Node.js",
