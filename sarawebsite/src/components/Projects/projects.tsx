@@ -33,7 +33,7 @@ export default function Projects() {
 
     {
       title: "Improving MNIST Classification with Gaussian Noise Regularization",
-      description: "A study on the effects of adding Gaussian noise to neural network weights as a regularization technique to improve model generalization.",
+      description: "A study on the effects of adding Gaussian noise to the training data as a regularization technique to improve model generalization.",
       imgSrc: "/thumbnails/regularization-mnist.png",  // your own image
       link: "https://github.com/saravargas88/deep-learning-25/blob/main/final-proj1-CNN-RNN.ipynb", 
       skills: ["Machine_Learning", "Python"]
