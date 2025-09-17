@@ -97,7 +97,7 @@ export default function Home() {
 
   {/* Headshot Side */}
   <motion.img
-    src="/headshot.jpg" 
+    src="/headshot.JPG" 
     alt="Sara Vargas Headshot"
     initial={{ opacity: 0, scale: 0.9 }}
     whileInView={{ opacity: 1, scale: 1 }}
