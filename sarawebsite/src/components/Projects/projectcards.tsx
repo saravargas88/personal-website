@@ -44,7 +44,6 @@ export default function ProjectCard({
 
       <Card.Body className="d-flex flex-column">
         <Card.Title className="fw-bold">{title}</Card.Title>
-
         <Card.Text className="text-muted flex-grow-1">{description}</Card.Text>
 
         {/* Skill tags */}
