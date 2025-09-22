@@ -8,7 +8,7 @@ export default function Projects() {
   const projects = [
 
      {
-      title: " Thesis: The Effects of Paid Parental Leaves on the Labor Force Participation of Mothers ",
+      title: " Thesis: The Effects of Paid Parental Leaves on the Labor Force Participation ",
       description: "Analysis using R on the impact of Paid Parental Leave (PPL) policies on mothers' labor force participation through demographics.",
       imgSrc: "/thumbnails/thesis.png",
       link: "https://github.com/saravargas88/undergraduate-thesis/blob/main/The%20Effects%20of%20Paid%20Parental%20Leaves%20on%20the%20Labor%20Force%20Participation%20of%20Mothers%20%20(2).pdf", 
@@ -23,8 +23,8 @@ export default function Projects() {
 
       },
     {
-      title: "Personal Website",
-      description: "Developed a personal website for a colleague using React and Javascript, featuring responsive design, and integrated routing for seamless navigation.",
+      title: "Personal Websites",
+      description: "Developed personal websites using React and Javascript, featuring responsive design, and integrated routing for seamless navigation.",
       
       imgSrc: "/thumbnails/qiwebsite.png",   // your own image
       link: "https://qi-personal-website.vercel.app/",
