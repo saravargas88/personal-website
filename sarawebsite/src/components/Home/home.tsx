@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 export default function Home() {
   return (
     <div>
-     
+
       <section
         style={{
           height: "90vh",  
@@ -62,36 +62,19 @@ export default function Home() {
         textAlign: "left",
       }}
     >
-      Hi, I’m Sara Vargas, a graduate student in the MSCS program at NYU’s
-      Courant Institute. My background bridges computer science, economics,
-      and mathematics, and I’m passionate about building technology that is
-      both impactful and user-centered.
-      <br />
-      <br />
-      I have experience in software development, research, and teaching, and I
-      enjoy working across the stack, from designing machine learning models
-      to developing web applications and creating interactive data
-      visualizations.
-      <br />
-      <br />
-      Most recently, I’ve worked as a Software Developer at Octavate, where I
-      worked on a CNN in PyTorch to evaluate music tracks, developed a RESTful
-      API-powered web scraper, and designed data visualization tools to drive
-      product insights.
-      <br />
-      <br />
-      Beyond technical development, I’m drawn to the product side of
-      engineering — thinking about how tools can be designed to meet real-world
-      needs and deliver meaningful experiences.
-      <br />
-      <br />
-      My projects reflect this mix of technical rigor and product-minded
-      creativity, from researching the labor force impacts of parental leave
-      policies to teaching Python to underrepresented high school students.
-      <br />
-      <br />
-      When I’m not coding or analyzing data, I enjoy singing, hiking, and
-      dancing!
+     
+
+     Hello! I am Sara Vargas a graduate student at the <a href="https://www.courant.nyu.edu/">Courant Institute School at New York University</a>. 
+     I am pursuing a Master's degree in Computer Science where I am honing my skills in machine learning. I am passionate about applying data science to solve real world issues in an ethical manner.
+     
+     
+     I am particularly interested in how machine learning and statistcal models can be used to solve problems in public humanitarian efforts.   
+    Currently to pursue this goal I am working at the Center for Data Science at NYU as a Research Assistant in the Demining Group under Professor Mateo Dulce Rubio. 
+    My role involves leading the group's initiative to expand our dataset to explore out of distribution generalization techniques to ultimately create a more robust model.
+
+
+  
+    
     </motion.p>
   </div>
 
