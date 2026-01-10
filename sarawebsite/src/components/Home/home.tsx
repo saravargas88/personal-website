@@ -64,10 +64,10 @@ export default function Home() {
     >
      
 
-     Hello! I am Sara Vargas a graduate student at the <a href="https://www.courant.nyu.edu/">Courant Institute School at New York University</a>. 
-     I am pursuing a Master's degree in Computer Science where I am honing my skills in machine learning. I am passionate about applying data science to solve real world issues in an ethical manner.<br></br>
+    Hello! I am Sara Vargas a graduate student at the <a href="https://www.courant.nyu.edu/">Courant Institute School at New York University</a>. 
+    I am pursuing a Master's degree in Computer Science where I am honing my skills in machine learning. I am passionate about applying data science to solve real world issues in an ethical manner.<br></br>
      
-     
+    
     I am particularly interested in how machine learning and statistcal models can be used to solve problems in public humanitarian efforts.   
     Currently to pursue this goal I am working at the Center for Data Science at NYU as a Research Assistant in the Demining Group under Professor Mateo Dulce Rubio. 
     My role involves leading the group's initiative to expand our dataset to explore out of distribution generalization techniques to ultimately create a more robust model.
