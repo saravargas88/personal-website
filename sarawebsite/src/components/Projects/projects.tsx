@@ -22,14 +22,21 @@ export default function Projects() {
       skills: ["Machine_Learning", "Python"]
 
       },
-    {
+    /*{
       title: "Personal Websites",
       description: "Developed personal websites using React and Javascript, featuring responsive design, and integrated routing for seamless navigation.",
       
       imgSrc: "/thumbnails/qiwebsite.png",   // your own image
       link: "https://qi-personal-website.vercel.app/",
       skills: ["React", "JavaScript", "CSS", "HTML"]
-    },
+    }*/
+    {
+      title: "Papertrail: Retrieval Augmented Dataset Description Enhancement",
+      description: "A study on the effects of adding Gaussian noise to the training data as a regularization technique to improve model generalization.",
+      imgSrc: "/thumbnails/regularization-mnist.png",  // your own image
+      link: "", 
+      skills: ["Machine_Learning", "Python"]
+      },
 
     {
       title: "Improving MNIST Classification with Gaussian Noise Regularization",
@@ -52,7 +59,7 @@ export default function Projects() {
       link: "https://github.com/saravargas88/geometric-modeling-25/tree/main/Shape%20Deformation",
       skills: ["Python", "Geometric_Modeling"]
     },
-    
+
     /// Here you can keep adding more projects as needed 
   ];
 
