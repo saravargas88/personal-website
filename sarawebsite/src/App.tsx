@@ -27,14 +27,16 @@ function App() {
       {/* Flex layout wrapper */}
       <div className="app-container">
         <Navbar />
-     
-        <Routes>
+
+        {/* Main content grows to push footer down */}
+        <main className="content">
+          <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/projects" element={<Projects />} />
             <Route path="/resume" element={<Resume />} />
             <Route path="/contact" element={<Contact />} />
-        </Routes>
-        
+          </Routes>
+        </main>
 
         <Footer />
       </div>
