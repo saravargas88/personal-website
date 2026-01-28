@@ -33,7 +33,7 @@ export default function Projects() {
     {
       title: "Papertrail: Retrieval Augmented Dataset Description Enhancement",
       description: "Addition to the AutoDDG dataset description generation pipeline by adding a Related Work Profiler class to enhance dataset summarization  .",
-      imgSrc: "/thumbnails/regularization-mnist.png",  // your own image
+      imgSrc: "/thumbnails/papertrail.png",  // your own image
       link: "", 
       skills: ["Machine_Learning", "Python"]
       },
